@@ -1,6 +1,6 @@
 let primerInput = document.getElementById("name")
 let segundoInput = document.getElementById("age")
-let showName = document.getElementById("showName")
+let showName = document.getElementById("bNombre")
 let showHi = document.getElementById("showHi")
 let showPrivacy = document.getElementById("showPrivacy")
 let resultado = document.getElementById("saludo")
