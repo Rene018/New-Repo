@@ -28,7 +28,7 @@ showPrivacy.addEventListener("click", () =>{
     if (edad > 18) {
         resultado.innerHTML = `<h1> Hola ${nombre} Eres mayor de edad</h1>`
     }else{
-        resultado.innerHTML = `<h1> Hola ${nombre} Eres mayor de edad</h1>`
+        resultado.innerHTML = `<h1> Hola ${nombre} Eres menor de edad</h1>`
     }
     
 })
