@@ -39,6 +39,11 @@ main{
 .inpt{
     padding: 5px;
 }
+#botones{
+    display: flex;
+    justify-content: space-around;
+    gap: 5px;
+}
 .btn{
     padding: 5px;
     width: 100px ;
