@@ -42,9 +42,8 @@ main{
 #botones{
     display: flex;
     justify-content: space-around;
-    gap: 5px;
 }
 .btn{
     padding: 5px;
-    width: 100px ;
+    width: 100px 
 }
