@@ -1,8 +1,8 @@
 let primerInput = document.getElementById("name")
 let segundoInput = document.getElementById("age")
 let showName = document.getElementById("bNombre")
-let showHi = document.getElementById("showHi")
-let showPrivacy = document.getElementById("showPrivacy")
+let showHi = document.getElementById("bSaludo")
+let showPrivacy = document.getElementById("bLegal")
 let resultado = document.getElementById("saludo")
 
 let nombre = ""
