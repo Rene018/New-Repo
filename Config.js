@@ -1,9 +1,9 @@
-let primerInput = document.getElementById("nombre")
-let segundoInput = document.getElementById("edad")
+let primerInput = document.getElementById("name")
+let segundoInput = document.getElementById("age")
 let showName = document.getElementById("showName")
 let showHi = document.getElementById("showHi")
 let showPrivacy = document.getElementById("showPrivacy")
-let resultado = document.getElementById("resultado")
+let resultado = document.getElementById("saludo")
 
 let nombre = ""
 let edad = ""
