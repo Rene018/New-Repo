@@ -29,8 +29,16 @@ main{
 }
 #pForm{
     display: flex;
+    flex-direction: column;
     gap: 15px;
 }
+#camp{
+    display: flex;
+    gap: 5px;
+}
 .inpt{
+    padding: 5px;
+}
+#btn{
     padding: 5px;
 }
